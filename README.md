@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Maddox-Bayn 👋
 
-<!--
-**maddox-bayn/maddox-bayn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Backend and AI Full-Stack Software Engineer focused on building scalable server applications, data automation pipelines, and robust database integrations. 
 
-Here are some ideas to get you started:
+Currently, I am a student at learn2earn Academy (01 Edu), expanding my expertise into AI Native Software Engineering and large language model orchestration frameworks. When I am not writing code, I run **SpiriTech**, a YouTube channel dedicated to programming tutorials, developer growth strategies, and honest coding bootcamp breakdowns.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Qualifications
+
+*   **Languages:** Go, Python, SQL, HTML/CSS
+*   **Backend & Architecture:** RESTful APIs, Web Server Routing, Server-Side Handlers
+*   **Databases & Infrastructure:** MySQL, Docker, Containerized Environments
+*   **Current Learning:** Data Automation, LLM Orchestration, Python Data Concepts
+  
+### 📈 Let's Connect
+*   **Email:** *eoduh22@gmail.com*
