@@ -1,4 +1,4 @@
-# Hi there, I'm Maddox-Bayn 👋
+# Hi there, I'm Oduh Emmanuel Aba 👋
 
 I am a Backend and AI Full-Stack Software Engineer focused on building scalable server applications, data automation pipelines, and robust database integrations. 
 
